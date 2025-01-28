@@ -26,5 +26,6 @@ Escrever um programa em Python que funcione como uma calculadora simples. Pedir 
 ***Ferramente Utilizada***
  <li><img align="center" alt="Colab" height="30" width="30" src="https://i.namu.wiki/i/zKS7LsOc2A4ZZR64XnAm8S88HbszoXQPH_T7CY3KFwfwJtemXQwc4Nu3tx5GavmyG-wmgcKs_PfqYbY8xg3iow.webp"> Google Colab: Plataforma para criação de notebooks, facilitando a análise colaborativa dos dados.</li>
 
+
  ***Link para a visualização das atividades***
   <li><a href="https://colab.research.google.com/drive/1EIYAervAPsSatxZDP8mr25eRroggsd-0?usp=sharing" target="_blank">Colab</a></li>
