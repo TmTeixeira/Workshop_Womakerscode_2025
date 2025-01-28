@@ -10,7 +10,7 @@ Além disso, informar ao usuário se ele foi aprovado ou reprovado com base na m
 Escrever um programa que receba uma string e contar quantas vogais (a, e, i, o, u) ela contém.
 
 *DESAFIO 3:*
-Escreva um programa em que o computador escolhe um número aleatório entre 1 e 100 e o usuário tenta adivinhar. O programa deve informar se o palpite é muito alto, muito baixo ou correto.
+Escrever um programa em que o computador escolhe um número aleatório entre 1 e 100 e o usuário tenta adivinhar. O programa deve informar se o palpite é muito alto, muito baixo ou correto.
 
 *DESAFIO 4:*
 Criar um programa que permita ao usuário gerenciar suas tarefas diárias. O programa deve oferecer as seguintes funcionalidades:
